@@ -31,6 +31,24 @@ File Structure
 
 ---
 
+How to Run
+
+1. Clone the repository:
+```bash
+git clone https://github.com/PenelopeSze/SimpleOfficeGame.git
+cd SimpleOfficeGame
+
+```
+
+
+2. Run the game:
+```bash
+python work_system.py
+
+```
+
+---
+
 How to Play
 
 1. Start the main game loop from `work_system.py`.
